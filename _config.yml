@@ -1,0 +1,28 @@
+name: Up Up Down
+favicon: null
+layout_spectrum: 0.5349079605657607
+typography_spectrum: 0.30041157035157084
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3552004478406161
+  lightness: 0.23212983831763268
+  saturation: 0.16181409894488752
+  rhythmicContrast: 0.393578277900815
+purpose: []
