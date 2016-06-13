@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Up Up Down]]></title>
+        <description><![CDATA[Up Up Down]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 13 Jun 2016 21:45:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Impetuous]]></title>
+            <description><![CDATA[<p>First pass, first post.</p>]]></description>
+            <link>undefinedthe-impetuous/index.html</link>
+            <guid isPermaLink="false">d1c1c024-3ea2-4a1e-8384-a235143d7202</guid>
+            <pubDate>Mon, 13 Jun 2016 21:45:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
