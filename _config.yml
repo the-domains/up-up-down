@@ -1,4 +1,4 @@
-name: Up Up Down
+name: Button Drawer
 favicon: null
 layout_spectrum: 0.5349079605657607
 typography_spectrum: 0.30041157035157084
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.3552004478406161
   lightness: 0.23212983831763268
   saturation: 0.16181409894488752
-  rhythmicContrast: 0.393578277900815
+  rhythmicContrast: 1
 purpose: []
