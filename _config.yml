@@ -1,7 +1,7 @@
 name: Button Drawer
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.83416
+layout_spectrum: 0
+typography_spectrum: 0.44313
 title: Button Drawer
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
-    - '#1c1826'
-    - '#943e2f'
-    - '#c0cfe7'
-    - '#857d7a'
-  brandStrength: 0.5
+    - '#ffffff'
+    - '#f3a43f'
+    - '#000000'
+    - '#c31b35'
+    - '#6c6c6c'
+  brandStrength: 0
   lightness: 1
-  saturation: 0.5
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
